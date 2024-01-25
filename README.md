@@ -1,12 +1,8 @@
-# My Website
+# React + Vite
 
-This is gonna be the code I use on my own Website - wish me luck.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+Currently, two official plugins are available:
 
-
-
-## License
-The Website ist licensed under GPL 3.0. So it's FOSS and you can copy, modify and anything else with this website.
-
-
-Have fun.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
