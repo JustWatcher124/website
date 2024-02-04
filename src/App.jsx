@@ -3,7 +3,7 @@ function App() {
 
   return (
     <>
-	  <h1>Cheesecake tastes great</h1>
+	  <h1>This is the personal website of JustWatcher124 -- nice of you for finding it.</h1>
     </>
   )
 }
