@@ -1,8 +1,16 @@
-# React + Vite
+# A Website -- Built in Vite + Reactjs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+There is pretty much nothing I want to do on here, I just want to have my own Website.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+If you want to look at this website, its available under my domain [jw124.de](https://www.jw124.de) (Yes, I am german)
+
+You can make suggestions if you want to, I may or may not make them.
+
+
+The Website is hosted on [AWS](https://www.aws.com) needing these services:
+- AWS Amplify (For the hosting of the website from this Github Repo)
+- AWS Route 53 (For DNS Settings)
+- The domain was bought at GoDaddy.com.
+

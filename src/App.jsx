@@ -1,11 +1,15 @@
-
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import HomePage from "/src/pages/HomePage/HomePage.jsx";
+import TestPage from "/src/pages/TestPage/TestPage.jsx";
 function App() {
-
-  return (
-    <>
-	  <h1>This is the personal website of JustWatcher124 -- nice of you for finding it.</h1>
-    </>
-  )
+	return (
+		<BrowserRouter>
+			<Routes>
+				<Route path="*" element={<HomePage />} />
+				<Route path="/test" element={<TestPage />} />
+			</Routes>
+		</BrowserRouter>
+	);
 }
 
-export default App
+export default App;
