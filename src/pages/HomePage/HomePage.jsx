@@ -6,6 +6,9 @@ function HomePage() {
 			<Link to="/test">
 				<button>To TestPage</button>
 			</Link>
+			<Link to="/impressum">
+				<button>Impressum</button>
+			</Link>
 		</>
 	);
 }
